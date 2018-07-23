@@ -2,4 +2,4 @@ Gun deaths distribution
 [[images/gun map.png]]
 
 Opioid death occupancy vs. time 
-![Probability of stops in a day in two states](images/capstone_1.png) 
+[[images/capstone_1.png]]
