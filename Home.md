@@ -1,5 +1,5 @@
-Probability of stops in a day in two states:
-![Probability of stops in a day in two states](images/capstone_1.png) 
+Gun deaths distribution 
+![Probability of stops in a day in two states](images/gun map.png) 
 
-Probability of stops outcome in two states:
-![Probability of stops in a day in two states](images/capstone_2.png) 
+Opioid death occupancy vs. time 
+![Probability of stops in a day in two states](images/capstone_1.png) 
